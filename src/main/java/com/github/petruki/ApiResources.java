@@ -1,4 +1,4 @@
-package github.petruki;
+package com.github.petruki;
 
 import java.util.HashMap;
 import java.util.Map;
